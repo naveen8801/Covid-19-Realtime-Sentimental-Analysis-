@@ -11,3 +11,7 @@ Backend - Python Flask
 # Screenshots
 
 ![Screenshot 1](./Screeenshots/1.png)
+
+![Screenshot 1](./Screeenshots/2.png)
+
+![Screenshot 1](./Screeenshots/3.png)
