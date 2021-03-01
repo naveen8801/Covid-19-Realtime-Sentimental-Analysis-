@@ -1,0 +1,25 @@
+.form{
+    margin: 18px;
+    padding: 18px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.twitter_logo{
+    margin-top: 6px;
+    margin-bottom: 9px;
+    object-fit: contain;
+    color: rgb(7, 93, 206);
+}
+
+.button{
+    display: inline-block;
+    width: 100%;
+}
+
+.btn_div{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 100%;
+}

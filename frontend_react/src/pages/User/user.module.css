@@ -1,0 +1,35 @@
+.user_conatiner {
+  widows: 100%;
+  text-align: center;
+  margin-top: 8px;
+}
+.sub_text {
+  font-family: 'Montserrat', sans-serif;
+}
+.home_text_content {
+  display: inline-block;
+  padding: 8px;
+  width: 50%;
+}
+
+.hr_liner {
+  width: 75%;
+}
+
+
+.chart{
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 8px;
+}
+.chart_{
+  width: 100%;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 8px;
+}
+
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-decoration: underline;
+}

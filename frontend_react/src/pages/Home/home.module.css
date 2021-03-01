@@ -1,0 +1,49 @@
+.home_container{
+    widows: 100%;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.sub_text{
+    font-family: 'Montserrat', sans-serif;
+}
+.home_text_content{
+    display: inline-block;
+    padding: 8px;
+    width: 50%;
+}
+
+.hr_liner{
+    width: 75%;
+}
+
+.home_main_content{
+    display: flex;
+    margin-top: 18px;
+    width: 90%;
+}
+.tweets_show_div{
+    width: 450px;
+    height: 80vh;
+    overflow: hidden;
+    overflow-y: scroll;
+    background-color: rgb(7, 93, 206);
+    border-radius: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+
+.visulaisation_div{
+    width: 100%;
+}
+.counter_div{
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 12px;width: 50%;
+    display: inline-block;
+    font-size: 14px;
+}
